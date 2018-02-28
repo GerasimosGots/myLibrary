@@ -143,6 +143,16 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\EFOOD\projects\myLibrary\MyApplication2\mylibrary\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e0f85e24f4fb8ab588370d75b72d66fb8537cd8">
+        <dex dex="C:\Users\EFOOD\projects\myLibrary\MyApplication2\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\EFOOD\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\9ab0425dbf86d53c47c078860ab0cd0c\jars\classes.jar"
         jumboMode="false"
         min-sdk-version="21"

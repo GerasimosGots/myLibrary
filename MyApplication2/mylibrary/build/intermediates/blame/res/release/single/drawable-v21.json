@@ -4,6 +4,22 @@
         "source": "C:\\Users\\EFOOD\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\08ddafb674bb9d94e02f9bab7bfb917a\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "C:\\Users\\EFOOD\\projects\\myLibrary\\MyApplication2\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\EFOOD\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\ef650b845d5d2305418d5572e8865274\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\EFOOD\\projects\\myLibrary\\MyApplication2\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\EFOOD\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f65233892bff8cb1fe3da533012db60c\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\EFOOD\\projects\\myLibrary\\MyApplication2\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\EFOOD\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f65233892bff8cb1fe3da533012db60c\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\EFOOD\\projects\\myLibrary\\MyApplication2\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\EFOOD\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f65233892bff8cb1fe3da533012db60c\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
         "merged": "C:\\Users\\EFOOD\\projects\\MyApplication2\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "C:\\Users\\EFOOD\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\08ddafb674bb9d94e02f9bab7bfb917a\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
