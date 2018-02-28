@@ -40,8 +40,8 @@ apply plugin: 'com.android.library'
     task CopyRenameAar(type: Copy) {
         from('build/outputs/aar/')
         into('libs/')
-        include('mylibrary-debug.aar')
-        rename('mylibrary-debug.aar', 'myLibrary.aar')
+        include('mylibrary-release.aar')
+        rename('mylibrary-release.aar', 'myLibrary.aar')
     }
 
     /*task createJar(type: Copy) {
