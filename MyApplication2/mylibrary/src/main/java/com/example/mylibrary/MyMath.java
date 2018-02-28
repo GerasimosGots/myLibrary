@@ -17,6 +17,9 @@ public class MyMath {
     public static int Divi(int a , int b){
         return a/b;
     }
+    public static int Func(int a , int b ,int c){
+        return a+b+c;
+    }
 
 }
 
