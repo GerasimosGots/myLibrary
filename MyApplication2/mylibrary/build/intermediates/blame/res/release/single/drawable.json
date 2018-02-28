@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\EFOOD\\projects\\myLibrary\\MyApplication2\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\EFOOD\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f65233892bff8cb1fe3da533012db60c\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "C:\\Users\\EFOOD\\projects\\MyApplication2\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\EFOOD\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\08ddafb674bb9d94e02f9bab7bfb917a\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\EFOOD\\projects\\myLibrary\\MyApplication2\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\EFOOD\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f65233892bff8cb1fe3da533012db60c\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\EFOOD\\projects\\myLibrary\\MyApplication2\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
