@@ -40,7 +40,7 @@ dependencies {
     task createAar(type: Copy) {
         from('build/outputs/aar')
         into('libs/')
-        rename('classes.jar', 'myLibrary.aar')
+
     }
     task createJar(type: Copy) {
         from('build/intermediates/bundles/release/')
